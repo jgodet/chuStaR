@@ -15,7 +15,7 @@
 #' @export
 
 
-getCHU<- function(){
+getCHU<- function(x){
 
-  return()
+  return(x)
 }
