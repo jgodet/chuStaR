@@ -17,7 +17,7 @@
 
 
 numextract <- function(string){ 
-  if(!require(strinr)){install.packages(stringr)}
+  if(!require(stringr)){install.packages(stringr)}
   require(stringr)
   return(str_extract(string, "\\-*\\d+\\.*\\d*"))
 } 
