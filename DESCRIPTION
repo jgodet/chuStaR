@@ -1,11 +1,11 @@
 Package: chuStaR
 Type: Package
-Title: CHU préférés des internes en Pharmacie
+Title: CHU preferes des internes en Pharmacie
 Version: 1.1
 Date: 2015-09-07
 Authors: Julien Godet
 Maintainer: Julien Godet <jgodet@unistra.fr>
-Description: petit bout de code pour identifier les CHU préférés des nouveaux internes en pharmacie 
+Description: petit bout de code pour identifier les CHU preferes des nouveaux internes en pharmacie 
 License: GPL-3
 Imports: XML, rvest, tidyverse
 RoxygenNote: 6.1.1
